@@ -5,28 +5,28 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 Your final report should include each of the following:
 
 District Summary
-  Create a high level snapshot (in table form) of the district's key metrics, including:
-    Total Schools
-    Total Students
-    Total Budget
-    Average Math Score
-    Average Reading Score
-    % Passing Math
-    % Passing Reading
-    Overall Passing Rate (Average of the above two)
+  - Create a high level snapshot (in table form) of the district's key metrics, including:
+    - Total Schools
+    - Total Students
+    - Total Budget
+    - Average Math Score
+    - Average Reading Score
+    - % Passing Math
+    - % Passing Reading
+    - Overall Passing Rate (Average of the above two)
 
 School Summary
-  Create an overview table that summarizes key metrics about each school, including:
-    School Name
-    School Type
-    Total Students
-    Total School Budget
-    Per Student Budget
-    Average Math Score
-    Average Reading Score
-    % Passing Math
-    % Passing Reading
-    Overall Passing Rate (Average of the above two)
+  - Create an overview table that summarizes key metrics about each school, including:
+    - School Name
+    - School Type
+    - Total Students
+    - Total School Budget
+    - Per Student Budget
+    - Average Math Score
+    - Average Reading Score
+    - % Passing Math
+    - % Passing Reading
+    - Overall Passing Rate (Average of the above two)
 
 Top Performing Schools (By Passing Rate)
   Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
